@@ -1,12 +1,12 @@
 # Bayesian Risk Modeling with Logistic Regression
 
 This project explores probabilistic risk modeling using Bayesian logistic regression, with an emphasis on uncertainty quantification and robust statistical inference rather than point prediction.
-This work was completed as the final project for a Bayesian Statistics course.
+This work was completed as the final project for a Bayesian Statistics course by Adina Jailova and Olga Kuzmich.
 
 Although the case study uses a medical dataset, the modeling approach is domain-agnostic and applicable to settings such as financial risk estimation, credit risk, and downside probability modeling.
 
 
-## What I did
+## What we did
 
 - Built a Bayesian logistic regression model to estimate the probability of a binary outcome
 - Implemented random-walk Metropolis MCMC from scratch for posterior inference
